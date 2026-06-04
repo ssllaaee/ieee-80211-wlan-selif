@@ -8,7 +8,7 @@ End-to-end 802.11-like OFDM PHY simulation work in MATLAB, covering modulation, 
 
 ## Student Information
 
-- **Name:** Sila Elif Karaagac
+- **Name:** Sıla Elif Karaağaç
 - **Department:** Electrical and Electronics Engineering
 - **University:** Ankara Yildirim Beyazit University
 - **Term:** 2026-2027
