@@ -1,4 +1,4 @@
-# IEEE 802.11 WLAN - Sila
+# IEEE 802.11 WLAN - Sıla Elif Karaağaç
 
 This repository presents a student-focused IEEE 802.11 WLAN study built around OFDM fundamentals, BER-versus-SNR analysis, toolbox-based simulation, and a more detailed TX-RX chain decomposition in MATLAB.
 
